@@ -1,0 +1,7 @@
+{
+  "name": "JS Advanced Retake Exam - 26 Apr 2018",
+  "version": "0.0.1",
+  "dependencies": {
+    "chai": "latest"
+  }
+}
